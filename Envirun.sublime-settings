@@ -1,0 +1,4 @@
+{
+	// File in project, which be used for find env and run commands
+	"file": ".envirun"
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "caption": "Preferences: Envirun File Settings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Envirun/Envirun.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun File Settings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Envirun.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun File Settings – Syntax Specific – User",
+        "command": "open_file_settings"
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Envirun/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Envirun/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Envirun/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Envirun Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    }
+]
